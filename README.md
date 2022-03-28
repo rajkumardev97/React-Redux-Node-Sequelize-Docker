@@ -2,7 +2,7 @@
 
 Simple application for managing the users
 
-Technology stack : Docker, Node.js, React.js, sequelize.js
+Technology stack : Docker, Node.js, React.js, Sequelize.js
 
 Steps to Run the System 
 
@@ -11,11 +11,14 @@ Steps to Run the System
 > docker-compose up  
 
 Important Urls:
+
 React App: http://127.0.0.1:8888/
+
 API Endpoint: http://127.0.0.1:7786/
 # Admin user is created when project init
 
 Username: admin
+
 Password: admin@123
 # Register
 
